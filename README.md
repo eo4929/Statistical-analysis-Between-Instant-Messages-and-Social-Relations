@@ -17,7 +17,11 @@ are provided with data visualizations. Finally, we discuss the analysis results 
 - Hypothesis 4 (H4): There is a significant positive correlation between the ratio of slang usages and intimacy.
 - Hypothesis 5 (H5): There is a significant negative correlation between the balance of incoming and outgoing messages and intimacy.
 
-# The Visualization Results
+# Visualization
 
 [Analysis-Results-and-Visualization-Results.pdf](https://github.com/eo4929/Statistical-analysis-Between-Instant-Messages-and-Social-Relations/files/7141424/Analysis-Results-and-Visualization-Results.pdf)
+
+# Results
+
+![res](https://user-images.githubusercontent.com/61178057/132803254-ba3f593a-2df6-460c-b01d-fe529932f2c2.png)
 
