@@ -3,7 +3,7 @@
 # Abstract
 Since Social Network Service(SNS) and instant message(IM) have recently been used among most people,
 many researchers have focused on the relationship between usage of SNS, IM, and social relations. In this
-paper, following the trend, we investigate the relationship between the usage of SNS, IM, and intimacy. Especially, the number of Kakaotalk users has increased
+paper, following the trend, we investigate the relationship between the usage of SNS, IM, and intimacy. Especially, the number of Kakaotalk users has increased
 worldwide. Thus, after collecting data from each of our
 KakaoTalk chat rooms, we performed some preprocessing steps to extract several features we had defined. We
 then tested 5 hypotheses by using these features and an
